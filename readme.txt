@@ -1,4 +1,4 @@
-﻿=== Post Pay Counter ===
+﻿=== Rel Nofollow ===
 Contributors: Ste_95
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2WDRMXGHWCCUY
 Tags: rel, links, seo
