@@ -2,7 +2,7 @@
 Contributors: Ste_95
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2WDRMXGHWCCUY
 Tags: rel, links, seo
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.0
 Requires at least: 3.7
 
